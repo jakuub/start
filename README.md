@@ -1,4 +1,4 @@
 React.dart
 ==============
 
-Library written in Dart
+## Moved to https://github.com/cleandart/tiles
